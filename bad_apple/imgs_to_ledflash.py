@@ -5,7 +5,7 @@ from PIL import Image
 gencode = ""
 
 m = os.listdir("imgs")
-print(natsorted(m))
+# print(natsorted(m))
 
 for i in range(len(m)):
     im = Image.open("imgs\\" + m[i]) # Can be many different formats.
