@@ -31,8 +31,10 @@ The Function names explain it all, but for a detailed analisis:
 ### Generator:
 The Generator is found in the `bad_apple` Directory, it is split into 3 parts:
 <br><br>`vid_to_5x5.py` | Converts The Bad Apple (or any video) into 5x5 Res.
-<br>`vid_to_frames.py` | Extracts the frames from the 5x5 video.
+<br>`vid_to_frames.py` | Extracts the frames from the 5x5 video, make sure you have a `imgs` folder that exists.
 <br>`imgs_to_ledflash.py` | Converts the frames into Plotting Code with screen refreshes.
+
+Once all these scripts are ran, it will generate a output named `gen.py`
 
 ## Demonstation
 
