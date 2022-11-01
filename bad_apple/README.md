@@ -1,1 +1,1 @@
-### As Defined in the [Previous ReadME](../), this contains the script files to generate a playable version of bad apple, however, you may see a file named `genned_python.py`, and that is a test containing 2m of bad apple.
+### As Defined in the [Previous ReadME](https://github.com/BeyYT/bad_apple_microbit/), this contains the script files to generate a playable version of bad apple, however, you may see a file named `genned_python.py`, and that is a test containing 2m of bad apple.
