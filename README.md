@@ -2,4 +2,52 @@
 ### This Will corrupt your pxt.json project file, just due to the sheer filesize the generated python output is.
 <br><br>
 # Bad Apple on a Micro:Bit
-## only cause i was AFK'ing a sugarcane farm in chaos realm 2
+**only cause i was AFK'ing a sugarcane farm in chaos realm 2**
+
+## Table of contents:
+- Code
+- - Player
+- - Generator
+- Demonstration
+- - Run-Times
+- - Running on Real Hardware
+- License
+
+## Code
+
+### Player:
+The Microbit Code player is in "main.py", however, it is 5 lines of code.
+```python
+def drawled(x,y,b):
+    led.plot_brightness(x, y, b)
+def clearfps():
+    basic.pause(33)
+    basic.clear_screen()
+```
+The Function names explain it all, but for a detailed analisis:
+<br>`drawled(x,y,b)` | Plots a Led from (0,0) to (4,4) with any value of brightness from 0-255
+<br>`clearfps()` | Clears Screen, since animation is 30FPS, it will pause for 33ms.
+
+### Generator:
+The Generator is found in the `bad_apple` Directory, it is split into 3 parts:
+<br><br>`vid_to_5x5.py` | Converts The Bad Apple (or any video) into 5x5 Res.
+<br>`vid_to_frames.py` | Extracts the frames from the 5x5 video.
+<br>`imgs_to_ledflash.py` | Converts the frames into Plotting Code with screen refreshes.
+
+## Demonstation
+
+**Youtube Video: SOON**
+
+### Run-Times:
+> Note that these are the devices i have on-hand, aswell, this is a 2m bad apple test, i will post the full bad apple results once i get them.
+
+Acer Chromebook 311: `11m 31s, Max Used Ram: 2.5GB, ChromeOS 106, 345s (5m 45s) / 313 Frames Per Minute`
+
+HP Desktop (Ryzen 3 3200G, 8GB Ram) `??m ??s, Max Used Ram: ??, Windows 11, ???s (?m ??m) / ???? Frames Per Minute`
+
+### Running on real hardware
+
+As of right now, i am not trying to run this in real hardware, however, with serial, it could be possible, although 9.6kbps could be limiting.
+
+## License
+This Project is Licensed by the [MIT License](https://github.com/BeyYT/bad_apple_microbit/blob/master/LICENSE).
