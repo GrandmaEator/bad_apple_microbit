@@ -43,9 +43,9 @@ Once all these scripts are ran, it will generate a output named `gen.py`
 ### Run-Times:
 > Note that these are the devices i have on-hand, aswell, this is a 2m bad apple test, i will post the full bad apple results once i get them.
 
-Acer Chromebook 311: `11m 31s, Max Used Ram: 2.5GB, ChromeOS 106, 345s (5m 45s) / 313 Frames Per Minute`
+Acer Chromebook 311: `11m 31s, Max Used Ram: 2.5GB, ChromeOS 106, 345s (5m 45s for preview) / 313 Frames Per Minute`
 
-HP Desktop (Ryzen 3 3200G, 8GB Ram) `??m ??s, Max Used Ram: ??, Windows 11, ???s (?m ??m) / ???? Frames Per Minute`
+HP Desktop (Ryzen 3 3200G, 8GB Ram) `5m 21s, Max Used Ram: 2GB, Windows 11, 180s (3m 0s for preview) / 600 Frames Per Minute`
 
 ### Running on real hardware
 
