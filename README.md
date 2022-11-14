@@ -4,13 +4,13 @@
 **only cause i was AFKing a sugarcane farm in chaos realm 2**
 
 ## sum table or smth:
-- [Code](/#code)
-- - [Player](/#player:)
-- - [Generator](/#generator:)
-- Demonstration
-- - Run-Times
-- - Running on Real Hardware
-- License
+- [Code](https://github.com/BeyYT/bad_apple_microbit#code)
+- - [Player](https://github.com/BeyYT/bad_apple_microbit#player)
+- - [Generator](https://github.com/BeyYT/bad_apple_microbit#generator)
+- [Demonstration](https://github.com/BeyYT/bad_apple_microbit#demonstration)
+- - [Run-Times](https://github.com/BeyYT/bad_apple_microbit#run-times)
+- - [Running on Real Hardware](https://github.com/BeyYT/bad_apple_microbit#running_on_real_hardware)
+- [License](https://github.com/BeyYT/bad_apple_microbit#license)
 
 ## Code
 
@@ -35,7 +35,7 @@ The Generator is found in the `bad_apple` Directory, it is split into 3 parts:
 
 Once all these scripts are ran, it will generate a output named `gen.py`
 
-## Demonstation
+## Demonstration
 
 **Youtube Video: SOON**
 
