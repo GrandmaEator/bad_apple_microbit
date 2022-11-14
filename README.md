@@ -9,7 +9,7 @@
 - - [Generator](https://github.com/BeyYT/bad_apple_microbit#generator)
 - [Demonstration](https://github.com/BeyYT/bad_apple_microbit#demonstration)
 - - [Run-Times](https://github.com/BeyYT/bad_apple_microbit#run-times)
-- - [Running on Real Hardware](https://github.com/BeyYT/bad_apple_microbit#running_on_real_hardware)
+- - [Running on Real Hardware](https://github.com/BeyYT/bad_apple_microbit#running-on-real-hardware)
 - [License](https://github.com/BeyYT/bad_apple_microbit#license)
 
 ## Code
