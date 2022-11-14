@@ -1,13 +1,12 @@
 # DO NOT IMPORT THIS VIA URL!
-### This Will corrupt your pxt.json project file, just due to the sheer filesize the generated python output is.
-<br><br>
+### This **WILL** corrupt your pxt.json project file, due to the fact that [The Generated LED Sequence](https://github.com/BeyYT/bad_apple_microbit/blob/master/bad_apple/genned_python.py) is quite<br>C H O N K Y at 1.8mb.
 # Bad Apple on a Micro:Bit
-**only cause i was AFK'ing a sugarcane farm in chaos realm 2**
+**only cause i was AFKing a sugarcane farm in chaos realm 2**
 
-## Table of contents:
-- Code
-- - Player
-- - Generator
+## sum table or smth:
+- [Code](/#code)
+- - [Player](/#player:)
+- - [Generator](/#generator:)
 - Demonstration
 - - Run-Times
 - - Running on Real Hardware
