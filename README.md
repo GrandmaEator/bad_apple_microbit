@@ -1,5 +1,5 @@
 # DO NOT IMPORT THIS VIA URL!
-### This **WILL** corrupt your pxt.json project file, due to the fact that [The Generated LED Sequence](https://github.com/BeyYT/bad_apple_microbit/blob/master/bad_apple/genned_python.py) is quite<br>C H O N K Y at 1.8mb.
+### This **WILL** corrupt your pxt.json project file, due to the fact that [The Generated LED Sequence](https://github.com/BeyYT/bad_apple_microbit/blob/master/bad_apple/genned_python.py) is quite C H O N K Y at 1.8mb.
 # Bad Apple on a Micro:Bit
 **only cause i was AFKing a sugarcane farm in chaos realm 2**
 
